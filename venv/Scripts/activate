@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\matth\OneDrive\Cours\1G3\NSI\Python\Pong\venv"
+VIRTUAL_ENV="C:\Users\matth\PycharmProjects\Monopoly\venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

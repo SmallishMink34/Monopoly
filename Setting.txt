@@ -1,0 +1,8 @@
+
+That page is the text file setting, with it you can change directly many setting in the game
+
+
+Clic: 0.99
+Background_Sound: 0.0
+
+Money: 2000

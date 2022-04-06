@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c77d0d9e-1ad3-48bf-89f6-db1ae4cd5290" name="Default Changelist" comment="" />
+    <list default="true" id="0c2a6be1-63b0-443f-9b40-b48ede881ed8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +14,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1lhKeAikX0zNr25EUaNQkNKGyXU" />
+  <component name="ProjectId" id="1jpI9vWigStKvjdLP3PcEjxuBiP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,40 +23,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\matth\OneDrive\Cours\1G3\NSI\Python\Pong" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\matth\OneDrive\Cours\1G3\NSI\Python\Pong" />
+      <recent name="C:\Users\Elève\OneDrive\Cours\1G3\NSI\Python\Monopoly\" />
+      <recent name="C:\Users\matth\PycharmProjects\Monopoly\img" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.jeu_pong">
-    <configuration name="jeu_pong" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pong" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\Elève\AppData\Local\Programs\Python\Python39\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jeu_pong.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="Pong" />
+  <component name="RunManager" selected="Python.SelectPerso">
+    <configuration name="Es" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Monopoly" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -70,7 +44,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Es.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,8 +53,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pong" />
+    <configuration name="SelectPerso" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Monopoly" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -91,7 +65,91 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SelectPerso.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="menu (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Monopoly" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/menu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="menu" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Monopoly" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\matth\OneDrive\Cours\1G3\NSI\Python\Monopoly\menu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="options" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Monopoly" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/options.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Monopoly" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tets.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,45 +160,116 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.jeu_pong" />
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.SelectPerso" />
+        <item itemvalue="Python.menu (1)" />
+        <item itemvalue="Python.Es" />
+        <item itemvalue="Python.options" />
+        <item itemvalue="Python.tets" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c77d0d9e-1ad3-48bf-89f6-db1ae4cd5290" name="Default Changelist" comment="" />
-      <created>1608043976444</created>
+      <changelist id="0c2a6be1-63b0-443f-9b40-b48ede881ed8" name="Default Changelist" comment="" />
+      <created>1604494472229</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1608043976444</updated>
+      <updated>1604494472229</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="402" y="0" key="#jeu_pong" timestamp="1610120802306">
+    <state x="275" y="22" key="#Inspections" timestamp="1605281791812">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="402" y="0" key="#jeu_pong/0.0.1366.728@0.0.1366.728" timestamp="1610120802306" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1610314501932">
+    <state x="275" y="22" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1605281791812" />
+    <state width="1345" height="223" key="GridCell.Tab.0.bottom" timestamp="1605510266720">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1610314501932" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1610314501932">
+    <state width="1345" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605510266720" />
+    <state width="1419" height="238" key="GridCell.Tab.0.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1605021128087" />
+    <state width="1345" height="223" key="GridCell.Tab.0.center" timestamp="1605510266716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1610314501932" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1610314501932">
+    <state width="1345" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1605510266716" />
+    <state width="1419" height="238" key="GridCell.Tab.0.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1605021128087" />
+    <state width="1345" height="223" key="GridCell.Tab.0.left" timestamp="1605510266716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1610314501932" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1610314501932">
+    <state width="1345" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1605510266716" />
+    <state width="1419" height="238" key="GridCell.Tab.0.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1605021128087" />
+    <state width="1345" height="223" key="GridCell.Tab.0.right" timestamp="1605510266716">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1610314501932" />
+    <state width="1345" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1605510266716" />
+    <state width="1419" height="238" key="GridCell.Tab.0.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1605021128087" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1605510266720">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1605510266720" />
+    <state width="1419" height="276" key="GridCell.Tab.1.bottom/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1604618591467" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1605510266720">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1605510266720" />
+    <state width="1419" height="276" key="GridCell.Tab.1.center/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1604618591466" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1605510266720">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1605510266720" />
+    <state width="1419" height="276" key="GridCell.Tab.1.left/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1604618591466" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1605510266720">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1605510266720" />
+    <state width="1419" height="276" key="GridCell.Tab.1.right/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1604618591466" />
+    <state x="210" y="12" key="SettingsEditor" timestamp="1605280526460">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="210" y="12" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1605280526460" />
+    <state x="221" y="74" key="SettingsEditor/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1604517935142" />
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1605278724821">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1605278724821" />
+    <state x="326" y="40" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604508541141">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="326" y="40" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1604508541141" />
+    <state x="427" y="0" width="585" height="860" key="find.popup" timestamp="1604499423464">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="427" y="0" width="585" height="860" key="find.popup/0.0.1440.860/1440.0.1280.984@0.0.1440.860" timestamp="1604499423464" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1605283468302">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1605283468302" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
